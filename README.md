@@ -1,0 +1,1 @@
+Esse aplicativo tem como objetivo trazer dados da base sem refresh
